@@ -1,7 +1,3 @@
-Perfect 🚀 — let’s make your repo look like a **mini-portfolio of Huawei AI scholarship tasks**.
-Here’s a `README.md` draft that combines **Task 1 (Edges vs Harris)** and **Task 2 (OpenCV vs skimage)** into one clean project:
-
----
 
 # 🎓 Huawei AI Scholarship – Computer Vision Mini Projects
 
